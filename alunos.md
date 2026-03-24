@@ -2,4 +2,5 @@
 - Nome Sobrenome — Cidade/Estado
 ---
 - Stephannie Suzart - São Paulo/SP
--Marcelo  Rodrigues — Portão/RS
+- Victoria Riso Santana - Jacareí/SP
+- Marcelo  Rodrigues — Portão/RS
