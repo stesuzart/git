@@ -1,13 +1,21 @@
 ## Lista de alunos
+
 - Nome Sobrenome — Cidade/Estado
+
 ---
+
 - Stephannie Suzart - São Paulo/SP
 - Lívia Silva - Jardinópolis/SP
 - André Alves — Saquarema/RJ
 - Joniel Oliveira - São José dos Campos/SP
 - Victoria Riso Santana - Jacareí/SP
 - Marcelo  Rodrigues — Portão/RS
+- Filipe Mascarenhas Sales de Carvalho - Recife/PE
+- jadeilton de almeida leite felix
 - João Sousa - Brasília/DF
-- Filipe Mascarenhas Sales de Carvalho - Recife/PE 
+- Sâmara Jeise - Guarulhos/SP
 - Deivid Ferreira - Mossoró/RN
-- Lucas Yago - Campina Grande/PB
+- Tarsilla Amaral - Salvador/BA
+- Sâmara Jeise - Guarulhos/SP
+
+
