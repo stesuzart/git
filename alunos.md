@@ -8,4 +8,4 @@
 - Victoria Riso Santana - Jacareí/SP
 - Marcelo  Rodrigues — Portão/RS
 - Filipe Mascarenhas Sales de Carvalho - Recife/PE
-- Jadelton de almeida leite felix - Rio de janeiro/ rj
+- jadeilton de almeida leite felix
