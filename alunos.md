@@ -7,4 +7,5 @@
 - Joniel Oliveira - São José dos Campos/SP
 - Victoria Riso Santana - Jacareí/SP
 - Marcelo  Rodrigues — Portão/RS
+- João Sousa - Brasília/DF
 - Filipe Mascarenhas Sales de Carvalho - Recife/PE 
