@@ -1,5 +1,5 @@
 ## Lista de alunos
-- Nome Sobrenome — Cidade/Estado
+- Ana Paula — São Pualo/SP
 ---
 - Stephannie Suzart - São Paulo/SP
 - Victoria Riso Santana - Jacareí/SP
