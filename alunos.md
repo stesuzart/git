@@ -4,6 +4,7 @@
 - Stephannie Suzart - São Paulo/SP
 
 
+- Victoria Riso Santana - Jacareí/SP
 
 
 
@@ -18,3 +19,4 @@
 
 
 - Vitor Leal - Volta Redonda/RJ
+
