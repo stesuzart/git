@@ -14,3 +14,4 @@
 - Filipe Mascarenhas Sales de Carvalho - Recife/PE 
 - Sâmara Jeise - Guarulhos/SP
 - Deivid Ferreira - Mossoró/RN
+- Tarsilla Amaral - Salvador/BA
