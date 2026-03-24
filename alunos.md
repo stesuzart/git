@@ -5,4 +5,11 @@
 ---
 
 - Stephannie Suzart - São Paulo/SP
-- Sâmara Jeise — Guarulhos/SP
+- Lívia Silva - Jardinópolis/SP
+- André Alves — Saquarema/RJ
+- Joniel Oliveira - São José dos Campos/SP
+- Victoria Riso Santana - Jacareí/SP
+- Marcelo  Rodrigues — Portão/RS
+- João Sousa - Brasília/DF
+- Filipe Mascarenhas Sales de Carvalho - Recife/PE 
+- Sâmara Jeise - Guarulhos/SP
