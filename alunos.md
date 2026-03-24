@@ -3,3 +3,4 @@
 ---
 - Stephannie Suzart - São Paulo/SP
 - Joniel Oliveira - São José dos Campos/SP
+- Victoria Riso Santana - Jacareí/SP
