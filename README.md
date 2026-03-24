@@ -59,7 +59,7 @@ Para criar a branch:
 Para enviar alterações:
 ```
 git add .
-git commit -m "Adiciona nome na lista de participantes"
+git commit -m "adição de um novo nome na lista de alunos"
 git push origin feature/seu-nome
 ```
 
