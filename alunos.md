@@ -2,3 +2,4 @@
 - Nome Sobrenome — Cidade/Estado
 ---
 - Stephannie Suzart - São Paulo/SP
+- Lívia Silva - Jardinópolis/SP
