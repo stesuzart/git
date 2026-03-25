@@ -15,6 +15,7 @@
 - Sâmara Jeise - Guarulhos/SP
 - Deivid Ferreira - Mossoró/RN
 - Tarsilla Amaral - Salvador/BA
-- Yasmin Serra — Belo Horizonte/MGA
+- Janio Warlem - Ribeirão Preto/SP
 - Lucas Yago - Campina Grande/PB
+- Yasmin Serra - Belo Horizonte/MG
 
