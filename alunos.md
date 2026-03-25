@@ -16,3 +16,4 @@
 - Tarsilla Amaral - Salvador/BA
 - Janio Warlem - Ribeirão Preto/SP
 - Lucas Yago - Campina Grande/PB
+- Ana Paula - São Paulo/SP
