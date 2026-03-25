@@ -1,5 +1,4 @@
 ## Lista de alunos
-
 - Nome Sobrenome — Cidade/Estado
 
 ---
@@ -9,10 +8,14 @@
 - André Alves — Saquarema/RJ
 - Joniel Oliveira - São José dos Campos/SP
 - Victoria Riso Santana - Jacareí/SP
-- Marcelo  Rodrigues — Portão/RS
+- Marcelo Rodrigues — Portão/RS
 - João Sousa - Brasília/DF
+- Filipe Mascarenhas Sales de Carvalho - Recife/PE
+- Jadeilton de Almeida Leite Felix
 - Sâmara Jeise - Guarulhos/SP
 - Deivid Ferreira - Mossoró/RN
 - Tarsilla Amaral - Salvador/BA
 - Janio Warlem - Ribeirão Preto/SP
 - Lucas Yago - Campina Grande/PB
+- Yasmin Serra - Belo Horizonte/MG
+
