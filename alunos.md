@@ -11,7 +11,7 @@
 - Victoria Riso Santana - Jacareí/SP
 - Marcelo  Rodrigues — Portão/RS
 - João Sousa - Brasília/DF
-- Filipe Mascarenhas Sales de Carvalho - Recife/PE 
 - Sâmara Jeise - Guarulhos/SP
 - Deivid Ferreira - Mossoró/RN
 - Tarsilla Amaral - Salvador/BA
+- Lucas Yago - Campina Grande/PB
