@@ -10,12 +10,8 @@
 - Joniel Oliveira - São José dos Campos/SP
 - Victoria Riso Santana - Jacareí/SP
 - Marcelo  Rodrigues — Portão/RS
-- Filipe Mascarenhas Sales de Carvalho - Recife/PE
-- jadeilton de almeida leite felix
 - João Sousa - Brasília/DF
 - Sâmara Jeise - Guarulhos/SP
 - Deivid Ferreira - Mossoró/RN
 - Tarsilla Amaral - Salvador/BA
-- Sâmara Jeise - Guarulhos/SP
-
-
+- Lucas Yago - Campina Grande/PB
