@@ -18,4 +18,5 @@
 - Janio Warlem - Ribeirão Preto/SP
 - Lucas Yago - Campina Grande/PB
 - Yasmin Serra - Belo Horizonte/MG
+- Robert Jacques - Foz do Iguaçu/PR
 
